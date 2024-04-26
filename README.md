@@ -6,5 +6,6 @@ Chris Okasaki's _Purely Functional Data Structures_.
 ## Table of Contents
 
 | Abstract Data Type | Data Structure(s) |
-| -------------------------------------- |
+| ------------------ | ----------------- |
 | Priority Queue     | Leftist Heap      |
+| Queue              | Batched Queue     |
